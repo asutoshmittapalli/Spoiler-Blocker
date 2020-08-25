@@ -30,6 +30,3 @@ When I created this extension, its purpose was:
 - An attempt to save myself from GoT (Game of Thrones) spoilers 
 - To solve the problem of spoilers as a Software Developer
 - To learn how to creat kick-ass Chrome Extensions
-
-# Can I contribute?
-Ofcourse!
